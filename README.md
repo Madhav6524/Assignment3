@@ -1,6 +1,6 @@
 # Assignment3
 
-#task1   find factorial
+##task1   find factorial
 
 - first i take user input and convert in to integer and store in x
 - create function name factorial with one parameter
@@ -11,7 +11,7 @@
 -  print the result
 
 
-  #task2  use of math modual
+  ##task2  use of math modual
 
   - first import math module
   - take a number using input() and convert into integer and store in x
