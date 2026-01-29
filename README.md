@@ -11,7 +11,7 @@
 -  print the result
 
 
-  # task2  use of math modual
+  # task2  use of math module
 
   - first import math module
   - take a number using input() and convert into integer and store in x
